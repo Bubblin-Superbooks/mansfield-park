@@ -1,24 +1,24 @@
 # INTRODUCTION
 
-A nifty read for book-lovers on the web. Yes, it's just a book. Delivered straight on web.
+A nifty read for book lovers on the web.
 
-Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books.
+Brought to you by web people and [Bubblin Superbooks](https://bubbl.in/about) - an online café of books. Best experienced on the iPad.
 
 ## MOBILE FIRST
 
-The first of its kind, this manuscript renders into a responsive `mobile-first` book. The manuscript was generated robotically and outputted into plain HTML, CSS and JavaScript i.e. native elements of web and is rendered live on the url provided at the top.
+First of its kind, this manuscript (repo) renders into a responsive `mobile-first` book. The manuscript was generated robotically using `nodejs` and `bookiza` and has been outputted into plain HTML, CSS and JavaScript i.e. native elements of web. Live book (demo) is available on the url provided at the top.
 
-Read a timeless English classic on your favorite browser and share the work online with your friends, classmates or family. For FREE!
-
-Please help us by sharing this to your friends if you can.
+Read a timeless English classic on your favorite browser and share the work online with your friends, family, classmates or just about anyone. For FREE! In fact help us spread the word by sharing this project generously.
 
 ## SUPPORT
-Best on iPad but works nearly everywhere - iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information.
+Best experienced on 9" iPad but works nearly everywhere - iPhones, Android phones & tablets, Kindle Fire, Desktops, TVs. See [details](https://bubbl.in/support) for more information.
 
-:point_right: Research suggests that books (both physical and electronic) are best experienced on 9" tablets. We hear you still Steve Jobs, we hear you!
+:point_right: Research suggests that books (both physical and electronic) are best experienced on 9" tablets.
+
+We hear you Steve Jobs, we hear you still!
 
 ## THE MANUSCRIPT
-This repo is the manuscript while the book is hosted and rendered live on the url provided at the top.
+This repo is the manuscript while the actual compiled book is hosted and rendered live on the writer's url at the top.
 
 
 ## RECOMMENDED DEVICE/BROWSER:
@@ -32,7 +32,7 @@ Apple iPad + Google Chrome. You can also do the following:
 
 ### HACK IT IN YOUR OWN STYLE
 
-Feel free to clone this manuscript to play with its content, layout or make fresh artwork of your own for it. If you make something please do tell us about it. We love interesting works from people and might even share it with our community!
+Feel free to clone this manuscript and play with it. You can modify its content, layout or make fresh artwork (imagery) of your own for it and republish. If you do make something please tell us about it. We love looking at interesting work from people and might even share it with our community!
 
 How:
 
